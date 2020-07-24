@@ -1,0 +1,11 @@
+.Menu-vertical {
+    color: red;
+    align-items: left;
+    justify-content: left;
+}
+
+.Menu-link {
+    align-items: left;
+    justify-content: left;
+    color: white;
+}
